@@ -1,5 +1,9 @@
 # WIT-ACE-HACKATHON-2021
 
+THEME : "She the Force: Hack for Sustainability with Tech Solutions"
+
+
+
 IDEA: AUTOMATED WATER QUALITY ANALYSIS AND PREDICTION
 
 The Elixir of life on Earth- water -has a life of its own. A water body differs in how and where it is formed, what aquatic life it supports and most importantly how it is used by us, humans. Yet the factors for degradation are the same for all- and the list is topped by the climate crisis ascending to its peak.
