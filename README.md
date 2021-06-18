@@ -19,3 +19,8 @@ The webpage is embedded with Google Maps API – this is for the facilitation of
 The website projecting useful stats on an everyday basis can also assist in forging a general notion on how well a water body in surrounding locations is maintained.
                                                                            
 ARCHITECTURE
+
+
+![](wit-ace.png)
+
+[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/r1bPxVzGz7Y)
