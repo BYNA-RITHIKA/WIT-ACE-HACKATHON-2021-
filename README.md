@@ -26,7 +26,7 @@ ARCHITECTURE
 
 VIDEO
 
-[![Watch the video](https://github.com/BYNA-RITHIKA/WIT-ACE-HACKATHON-2021-/blob/main/wit-ace-tech_squad.jpg)](https://youtu.be/r1bPxVzGz7Y)
+[![Watch the video](https://github.com/BYNA-RITHIKA/WIT-ACE-HACKATHON-2021-/blob/main/WIT-ACE%20-TECH_SQUAD.jpg)](https://youtu.be/r1bPxVzGz7Y)
 
 
 Conclusion
