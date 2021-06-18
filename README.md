@@ -23,4 +23,15 @@ ARCHITECTURE
 
 ![](wit-ace.png)
 
+
+VIDEO
+
 [![Watch the video](https://github.com/BYNA-RITHIKA/WIT-ACE-HACKATHON-2021-/blob/main/wit-ace-tech_squad.jpg)](https://youtu.be/r1bPxVzGz7Y)
+
+
+Conclusion
+
+
+The system can be used for both domestic and commercial purposes further highly benefitting water supply agencies. It is economically affordable as it is of low maintenance and would b the best gift to the human society by preventing waterborne diseases as it predicts and recommends quality water resources.
+
+
