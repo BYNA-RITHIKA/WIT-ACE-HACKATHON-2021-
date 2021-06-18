@@ -18,13 +18,17 @@ This information is retrieved and then updated in a webpage on a regular basis â
 The webpage is embedded with Google Maps API â€“ this is for the facilitation of the feature to view gathered data in any location of interest for the user in the Maps. 
 The website projecting useful stats on an everyday basis can also assist in forging a general notion on how well a water body in surrounding locations is maintained.
                                                                            
+
+
 ARCHITECTURE
+
+
 
 
 ![](wit-ace.png)
 
 
-VIDEO
+VIDEO DESCRIPTION
 
 [![Watch the video](https://github.com/BYNA-RITHIKA/WIT-ACE-HACKATHON-2021-/blob/main/WIT-ACE%20-TECH_SQUAD.jpg)](https://youtu.be/r1bPxVzGz7Y)
 
@@ -32,6 +36,18 @@ VIDEO
 Conclusion
 
 
-The system can be used for both domestic and commercial purposes further highly benefitting water supply agencies. It is economically affordable as it is of low maintenance and would b the best gift to the human society by preventing waterborne diseases as it predicts and recommends quality water resources.
+The system can be used for both domestic and commercial purposes further highly benefitting water supply agencies. It is economically affordable as it is of low maintenance and would be the best gift to the human society by preventing waterborne diseases as it predicts and recommends quality water resources.
+
+Created BY 
+
+TEAM NAME - TECH SQUAD
+
+TEAM MEMBERS
+
+1.BYNA RITHIKA
+2.AISHWARYA J
+3.ANANDHITHA T R
+4.DINESH KUMAR G
+5.DINESH P N
 
 
